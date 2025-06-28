@@ -1,6 +1,6 @@
 {
   "name": "persist-flag",
-  "version": "1.0.0-dev.0",
+  "version": "1.0.0",
   "description": "Lightweight persistent flag manager with query disabling and scoped key storage",
   "author": "ux-ui.pro",
   "license": "MIT",
